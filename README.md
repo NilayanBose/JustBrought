@@ -33,4 +33,4 @@
 * Create Account
 * Login Page
 * Orders List
-* Customer Care
+* Customer Care.
